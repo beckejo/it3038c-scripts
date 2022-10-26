@@ -10,4 +10,9 @@ Simple missile command game where you defend 6 cities and 3 silos from incoming 
 
 To run the game, download the project folder and run the file JProject2.py
 
+
+
+
+Credit to TokyoEdtech for his Simple Python Game Library and for his helpful programming tutorial videos.
+
 ======
