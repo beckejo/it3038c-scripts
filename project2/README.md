@@ -1,20 +1,19 @@
-# MARKDOWN EXAMPLE
+# Jay Project 2
 
 ======
 
-### Welcome My App
+### Missile Command Protoype Game
 
 ======
 
-My app is so great, sometimes it works! Just download the script, add some execute permissions and run it. The results should show you a list of all of the cat pictures on your machine.
+Simple missile command game where you defend 6 cities and 3 silos from incoming missiles. See in game splash screen for full instructions.
 
-```javascript
-Javascript code block to highlight whats up in my code
-```
+To run the game, download the project folder and run the file JProject2.py
 
-* A single star creates a large heading
-** Two stars is less
-*** Three stars even less
-**** Four stars looks normal
+
+======
+
+
+Credit to TokyoEdtech for his Simple Python Game Library and for his helpful programming tutorial videos.
 
 ======
